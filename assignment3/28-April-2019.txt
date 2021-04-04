@@ -1,0 +1,8 @@
+Today the lab is not linked to any new assignment. Instead you can keep working on the previous assignment and also play around with variational autoencoders.
+
+In particular, I encourage you to read through the code here and test this variational autoencoder on the MNIST dataset:
+https://github.com/pytorch/examples/blob/master/vae/main.py
+You should be able to recognise the elements with studied in today’s lecture when looking at the code in this github repository.
+
+See also the appendix (particularly B and C) of this paper to understand the implementation details:
+https://arxiv.org/pdf/1312.6114.pdf
